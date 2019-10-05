@@ -2,11 +2,16 @@ body {
     color: white;
     text-align: center;
     background: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
-h1 {
-    font-family: Veranda;
+.header--main {
     font-weight: normal;
     font-size: 50px;
+}
+
+.link--cta {
+    color: aquamarine;
+    font-size: 16px;
 }
